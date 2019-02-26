@@ -352,7 +352,6 @@ module.exports = {
           {
             loader: 'file-loader',
             exclude: [
-              /(assets\/fonts)/,
               /\.(js|mjs|jsx|ts|tsx)$/,
               /\.html$/,
               /\.json$/
